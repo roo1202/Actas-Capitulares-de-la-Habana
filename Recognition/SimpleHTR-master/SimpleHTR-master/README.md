@@ -133,3 +133,6 @@ For more details see this [Medium article](https://towardsdatascience.com/2326a3
 * [Scheidl - Handwritten Text Recognition in Historical Documents](https://repositum.tuwien.ac.at/obvutwhs/download/pdf/2874742)
 * [Scheidl - Word Beam Search: A Connectionist Temporal Classification Decoding Algorithm](https://repositum.tuwien.ac.at/obvutwoa/download/pdf/2774578)
 
+
+
+
